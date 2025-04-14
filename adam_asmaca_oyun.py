@@ -7,6 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/199ZiCysBhoGq83QfKefCJO0ZMhHy5PkJ
 """
 
+clue = "İpucu: Bu bir hayvan ismi olabilir."
+print(clue)
+
 import random
 
 kelimeler = ['elma', 'armut', 'muz', 'çilek', 'karpuz', 'kiraz', 'portakal', 'üzüm']
